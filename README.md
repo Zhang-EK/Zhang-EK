@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    Hey! I am a Phd candidate of Microbiology 
+    <br>My current work focuses on <em>Bioinformatics</em>:sparkles:<br><br>
+    <img src="https://raw.githubusercontent.com/Zhang-EK/blog_img/main/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif" width="240px">
+  </samp>
+</p>
 
-<!--
-**Zhang-EK/Zhang-EK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span align="center">
+  <br>
 
-Here are some ideas to get you started:
+  [![github stats](https://github-readme-stats.vercel.app/api?username=Zhang-EK&show_icons=true&hide_border=False)](https://github.com/Zhang-EK)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</span>
