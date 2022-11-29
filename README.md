@@ -2,7 +2,7 @@
   <samp>
     Hey! I am a Phd candidate of Microbiology 
     <br>My current work focuses on <em>Bioinformatics</em>:sparkles:<br><br>
-    <img src="https://raw.githubusercontent.com/Zhang-EK/blog_img/main/rick-roll.gif" width="240px">
+    <img src="https://media.giphy.com/media/UCTaYoiR7pD2okgFK1/giphy.gif" width="240px">
   </samp>
 </p>
 
